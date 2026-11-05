@@ -30,9 +30,4 @@ Soy Ingeniera en Sistemas Computacionales apasionada por el desarrollo web front
 * **Mundo Mágico Cobra** — Sitio web oficial y catálogo interactivo enfocado en servicios de botargas y entregas sorpresa, desarrollado con un diseño responsivo y optimizado.
 * **Saggyscar** — Plataforma informativa y catálogo digital de suministros para talleres automotrices, construida con Java, Spring Boot y Maven.
 
----
 
-### 📊 Estadísticas de GitHub
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ValeriaOlmos-G&show_icons=true&theme=nord&hide_border=true" alt="Estadísticas de GitHub" />
-</p>
