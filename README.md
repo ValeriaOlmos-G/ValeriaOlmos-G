@@ -26,6 +26,6 @@ Soy Ingeniera en Sistemas Computacionales apasionada por el desarrollo web front
 
 ### 🚀 Proyectos Destacados
 * **Mundo Mágico Cobra** — Sitio web oficial y catálogo interactivo enfocado en servicios de botargas y entregas sorpresa, desarrollado con un diseño responsivo y optimizado.
-* **Saggyscar** — Plataforma informativa y catálogo digital de suministros para talleres automotrices, construida con Java, Spring Boot y Maven.
+* **Saggyscar** — Plataforma informativa y catálogo digital de suministros para talleres automotrices.
 
 
