@@ -2,8 +2,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Disponible_para_proyectos-success?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge" alt="Frontend Developer">
-  <img src="https://img.shields.io/badge/Backend-Java_%2F_Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Backend">
 </p>
 
 Soy Ingeniera en Sistemas Computacionales apasionada por el desarrollo web frontend, el diseño de interfaces limpias y la creación de experiencias digitales funcionales y atractivas. Me encanta cuidar cada detalle estructural y visual del código, combinando un diseño frontend cuidado con una sólida lógica de backend.
